@@ -38,12 +38,16 @@ The main menu offers several options:
 ####### Error Handling
 1. Input validation ensures that settings like gain, sampling rate, and maintenance date are within acceptable ranges.
 2. The system also handles invalid inputs gracefully by displaying appropriate error messages.
+   
 ######## Additional Features
 1. Manage sensors for amplifiers.
 2. Save and load the state of the system using JSON files.
+   
 ######### Version Control
 This project is managed using Git for version control. You can view the commit history and track changes in the repository.
+
 ########## License
 This project is open-source and available under the MIT License.
+
 ########### Acknowledgement
  Inspired by various open-source projects, including [awesome-readme](https://github.com/matiassingers/awesome-readme), [PurpleBooth](https://github.com/PurpleBooth), [dbader](https://github.com/dbader), [zenorocha](https://github.com/zenorocha), and [fvcproductions](https://github.com/fvcproductions), StackOverflow(https://stackoverflow.com/questions/48077684/accessing-amp-state-json-values), EEG amplifier manual (https://lifelinesneuro.com/wp-content/uploads/2023/01/51262-006-R-40-EEG-Amplifier-User-Manual-Iss1.5.pdf), Features of EEG amplifier (https://www.bitbrain.com/blog/eeg-amplifier), Restricting duplicate values (https://stackoverflow.com/questions/73411332/how-to-dynamically-restrict-duplicated-value-of-input-text-in-a-looped-rand)
